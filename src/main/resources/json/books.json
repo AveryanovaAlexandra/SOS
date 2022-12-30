@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Объектно-ориентированное программирование в С++",
+        "author": "Роберт Лафоре",
+        "year": "2004",
+        "pages": "924",
+        "publishing": "Питер",
+        "link": "https://goo.su/a3RlLP"
+    },
+    {
+        "name": "Оптимизационные алгоритмы теории графов в программировании",
+        "author": "Л.С.Ломакина",
+        "year": "2007",
+        "pages": "32",
+        "publishing": "Нижний Новгород",
+        "link": "https://goo.su/u3ASY"
+    },
+    {
+        "name": "Spring в действии",
+        "author": "Крейг Уоллс",
+        "year": "2013",
+        "pages": "754",
+        "publishing": "ДМК Пресс",
+        "link": "https://goo.su/HTPfE"
+    },
+    {
+        "name": "Как устроен JavaScript",
+        "author": "Дуглас Крокфорд",
+        "year": "2019",
+        "pages": "304",
+        "publishing": "Питер",
+        "link": "https://goo.su/hsQT"
+    },
+    {
+        "name": "HTML5, CSS3 и JavaScript. Исчерпывающее руководство",
+        "author": "Дженнифер Роббинс",
+        "year": "2014",
+        "pages": "516",
+        "publishing": "Эксмо",
+        "link": "https://goo.su/0MWDGrK"
+    }
+]

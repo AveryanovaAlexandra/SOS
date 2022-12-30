@@ -1,0 +1,44 @@
+{
+  "name": "web",
+  "author": "Averyanova Sasha",
+  "private": true,
+  "version": "0.3.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@handsontable/vue3": "^12.2.0",
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue-3": "^0.4.13",
+    "handsontable": "^12.2.0",
+    "mdb-vue-ui-kit": "^3.1.1",
+    "popper.js": "^1.16.1",
+    "swagger-ui": "^4.15.5",
+    "testit-api-client": "^1.0.5",
+    "the-new-css-reset": "^1.6.1",
+    "v-tables-3": "^0.4.7",
+    "vue": "^3.2.45",
+    "vue-good-table-next": "^0.2.1",
+    "vue-jstree": "^2.1.6",
+    "vue-router": "^4.0.16",
+    "vue-tables-3": "^2.0.1-beta05",
+    "vue-yandex-maps": "^0.11.13",
+    "vue3-table-lite": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/compiler-sfc": "^3.2.45",
+    "grunt": "^1.5.3",
+    "grunt-contrib-jshint": "^3.2.0",
+    "sass": "^1.52.3",
+    "typescript": "^4.7.3",
+    "vite": "^2.9.12",
+    "vue-tsc": "^0.37.3"
+  }
+}

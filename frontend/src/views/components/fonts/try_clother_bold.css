@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'TRY Clother Bold';
+	src: url('src/views/components/fonts/try_clother_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('src/views/components/fonts/try_clother_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('src/views/components/fonts/try_clother_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('src/views/components/fonts/try_clother_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('src/views/components/fonts/try_clother_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('src/views/components/fonts/try_clother_bold.svg#try_clother_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
